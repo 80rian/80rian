@@ -13,8 +13,6 @@
 - JavaScript/TypeScript
 - Solidity
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=80rian&layout=compact)
-
 ### Cloud
 
 - AWS (Athena, Glue, S3, EMR, EMR Serverless, EKS, Kinesis, Firehose, Lambda, etc.)
