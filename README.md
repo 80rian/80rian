@@ -1,6 +1,6 @@
-# Adrian Jeong | 정재윤
+# Adrian Jeong
 
----
+Contact: <80rian.jeong@gmail.com>
 
 ## Skill Set
 
