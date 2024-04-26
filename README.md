@@ -1,16 +1,81 @@
-### Hi there 👋
+# Adrian Jeong | 정재윤
 
-<!--
-**80rian/80rian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Skill Set
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Language
+
+- Python
+- Scala
+- Go
+- SQL
+- JavaScript/TypeScript
+- Solidity
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+### Cloud
+
+- AWS (Athena, Glue, S3, EMR, EMR Serverless, EKS, Kinesis, Firehose, Lambda, etc.)
+- GCP (BigQuery, GCS, DataProc, GKE, etc.)
+
+### Data Processing Tool
+
+- Apache Spark
+- Apache Flink
+- Pandas
+
+### Data Warehouse / Data Store
+
+- Apache Hive (AWS Glue)
+- Apache Iceberg (AWS Glue)
+- GCP BigQuery
+- Apache Pinot
+- Amazon DynamoDB
+- MySQL / PostgreSQL
+- MongoDB
+
+### Data Visualization
+
+- Apache Superset
+- Redash
+
+### Workflow Orchestration
+
+- Apache Airflow
+
+### Container Orchestration & CI/CD
+
+- Docker
+- Kubernetes
+- Helm
+- Github Actions
+
+---
+
+## Work Experiences
+
+### GroundX, a Kakao Company
+
+- Jul 2022 ~
+- Data Engineer
+
+### Kiboko
+
+- Apr 2020 ~ Jun 2022
+- Data Enginner & Co-founder
+
+### Enuma
+
+- May 2018 ~ Mar 2020
+- Data Analytics Engineer
+
+---
+
+## Academics
+
+### Pennsylvania State University (Aug 2012 ~ Jul 2018)
+
+- Major: Systems Analysis Mathematics (BS)
+- Minor: Entrepreneurship & Innovation
